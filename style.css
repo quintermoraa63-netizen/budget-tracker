@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-size: 32px;
+}
+
+#add-expense {
+    background-color: lightgray;
+    padding: 20px;
+    margin: 20px;
+}
+
+#your-expenses {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
+
+.description {
+    font-size: 18px;
+    text-align: center;
+}
