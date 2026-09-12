@@ -24,3 +24,38 @@ input {
     font-size: 18px;
     text-align: center;
 }
+
+/* Expense Table */
+#your-expenses table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+#your-expenses th,
+#your-expenses td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+#your-expenses th {
+    background-color: #d63384;
+    color: white;
+}
+
+#your-expenses tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#your-expenses tbody tr:hover {
+    background-color: #ffe6f2;
+}
+
+button {
+    cursor: pointer;
+}
+
+input:focus {
+    outline: 2px solid #d63384;
+}
