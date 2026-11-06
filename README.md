@@ -1,4 +1,4 @@
-# # SpendWise – Personal Budget Tracker
+# SpendWise – Personal Budget Tracker
 
 ## Project Description
 
@@ -133,6 +133,7 @@ Invalid entries trigger a message asking the user to enter valid details.
 - CSS3 – dashboard styling and layout
 - JavaScript – application logic and interactivity
 - Git and GitHub – version control and project submission
+- Netlify – website hosting and deployment
 
 ## Project Files
 
@@ -158,8 +159,40 @@ Solution: Updated the table, dashboard summary, and category cards after adding 
 
 Solution: Used conditional statements to display different messages depending on the remaining balance.
 
+## GitHub Repository Information
+
+- **Project Name:** SpendWise – Personal Budget Tracker
+- **GitHub Repository:** https://github.com/quintermoraa63-netizen/budget-tracker
+- **Main Branch:** main
+- **Repository Visibility:** Public
+
+## Live Deployment
+
+- **Hosting Platform:** Netlify
+- **Live Website URL:** https://spendwise-budget-app-2026.netlify.app/
+
+The application is publicly accessible through the live website link above.
+
+## Deployment Process Summary
+
+SpendWise was deployed using GitHub and Netlify.
+
+The project source files were uploaded to a public GitHub repository. The GitHub repository was then connected to Netlify, which automatically builds and publishes the website.
+
+After making additional changes to the project, the updated HTML and CSS files were committed and pushed to the main branch using Git.
+
+Netlify automatically detected the new GitHub commit and deployed the latest version of SpendWise.
+
+This demonstrates successful continuous deployment through GitHub and Netlify.
+
+## Challenges and Lessons Learned
+
+During deployment, I learned how to connect a GitHub repository to Netlify, publish a website, and use Git commands to update a live application.
+
+I also learned how continuous deployment makes it easier to maintain and update a website.
+
 ## Conclusion
 
 SpendWise demonstrates how JavaScript can be used to create an interactive budget tracking application. By combining arrays, objects, loops, conditional statements, functions, DOM manipulation, and event listeners, the project enables users to manage expense records and monitor their spending more effectively.
 
-**Future improvement:** Add browser storage so that expense records remain available after refreshing or reopening the page.
+**Future Improvement:** Add browser storage so that expense records remain available after refreshing or reopening the page.
